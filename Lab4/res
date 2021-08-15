@@ -1,0 +1,59 @@
+entrada-1000-cresce:
+
+HeapSort: 5661 milisec
+QuickSort: 550 milisec
+
+entrada-1000-decresce:
+
+HeapSort: 5804 milisec
+QuickSort: 629 milisec
+
+entrada-1000-troca:
+
+HeapSort: 1152 milisec
+QuickSort: 425 milisec
+
+entrada-10000-cresce:
+
+HeapSort: 105766 milisec
+QuickSort: 405 milisec
+
+entrada-10000-decresce:
+
+HeapSort: 106177 milisec
+QuickSort: 504 milisec
+
+entrada-10000-troca:
+
+HeapSort: 197345 milisec
+QuickSort: 782 milisec
+
+entrada-100000-cresce:
+
+HeapSort: 10489585 milisec
+QuickSort: 3522 milisec
+
+entrada-100000-decresce:
+
+HeapSort: 10371908 milisec
+QuickSort: 3479 milisec
+
+entrada-100000-troca:
+
+HeapSort: 10349126 milisec
+QuickSort: 4750 milisec
+
+entrada-1000000-cresce:
+
+HeapSort:  milisec
+QuickSort:  milisec
+
+entrada-1000000-decresce:
+
+HeapSort:  milisec
+QuickSort:  milisec
+
+entrada-1000000-troca:
+
+HeapSort:  milisec
+QuickSort:  milisec
